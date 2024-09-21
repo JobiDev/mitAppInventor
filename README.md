@@ -1,6 +1,5 @@
 # Mit App inventor exploit
-**Requirements**
-**1. The app "MIT AI2 Companion" is unblocked on playstore**
+**Requirements. The app "MIT AI2 Companion" is unblocked on playstore**
 
 **ps: this is only tested on v120 and v114 atm so if your not on those versions and it doesn't work. sorry :(**
 
